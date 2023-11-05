@@ -6,7 +6,7 @@ return [
     'baseUrl' => '',
     'production' => false,
     'siteName' => 'JS Apps',
-    'siteDescription' => 'JS Apps é fala sobre desenvolvimento de software a partir da perspectiva pessoal de João Salomão',
+    'siteDescription' => 'JS Apps Software Development',
     'siteAuthor' => 'João Salomão',
 
     // collections
